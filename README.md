@@ -357,6 +357,15 @@ Vite will compile and compress elements, saving output files in the `/dist` dire
 
 ---
 
+## 👥 Team Q-BharatAI
+
+* 👑 **Mohd Shadab** - Team Lead / Product
+* 💻 **Aviral Trivedi** - Full Stack Developer
+* 🧠 **Shrinkhla Shukla** - Backend & Research
+* ☁️ **Manya Awasthi** - Testing & Documentation
+
+---
+
 ## 🤝 Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
