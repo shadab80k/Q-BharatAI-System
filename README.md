@@ -357,11 +357,11 @@ Vite will compile and compress elements, saving output files in the `/dist` dire
 
 ---
 
-## 👥 Team Q-BharatAI
+## 👥 Team (Q-BharatAi)
 
 * 👑 **Mohd Shadab** - Team Lead / Product
 * 💻 **Aviral Trivedi** - Full Stack Developer
-* 🧠 **Shrinkhla Shukla** - Backend & Research
+* 🧠 **Shrinkhla Shukla** - Frontend & Research
 * ☁️ **Manya Awasthi** - Testing & Documentation
 
 ---
