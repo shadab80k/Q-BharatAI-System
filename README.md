@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Q-BharatAI Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-</p>
 
 # 🏥 Q-BharatAI-System 🇮🇳
 > **Next-Generation, AI-Driven Public Health Operating System & Resource Optimizer for Primary Health Centers (PHCs) and District Administrations**
@@ -357,51 +354,6 @@ npm run build
 ```
 Vite will compile and compress elements, saving output files in the `/dist` directory.
 
----
-
-## 📷 Screenshots
-
-| Dashboard View | Landing Page | Patient Portal |
-| :---: | :---: | :---: |
-| <img src="assets/banner.png" alt="Clinical Dashboard" width="300" style="border-radius:4px;"> | <img src="assets/banner.png" alt="Landing Page" width="300" style="border-radius:4px;"> | <img src="assets/banner.png" alt="Patient App" width="300" style="border-radius:4px;"> |
-| *Clinical & Staff Desk* | *Platform Portal Gateway* | *Voice & Virtual Queue Booking* |
-
-| District Analytics | AI Outbreak Tracker |
-| :---: | :---: |
-| <img src="assets/banner.png" alt="District Analytics" width="300" style="border-radius:4px;"> | <img src="assets/banner.png" alt="AI Outbreak Radar" width="300" style="border-radius:4px;"> |
-| *Cross-PHC Performance Scores* | *Spatial Outbreak Radar* |
-
----
-
-## 🎥 Live Demo & Presentation
-
-* **Live Web App:** [https://q-bharatai-system.web.app](https://q-bharatai-system.web.app) *(Mock deployment link)*
-* **Video Walkthrough:** [YouTube Video Walkthrough Link](https://youtube.com) *(Demo pitch and feature summary)*
-
----
-
-## 🗺️ Product Roadmap
-
-- [x] **Virtual Queue Dashboard:** Real-time token caller and dynamic wait algorithm.
-- [x] **Emergency Override:** Clinic-facing priority toggle.
-- [x] **Visual Charting:** Live bed trackers and pharmacy low-stock dashboards.
-- [x] **Multilingual Interface:** UI layouts for Patient, Staff, and District roles.
-- [ ] **Offline PWA Engine:** Local database replication with synchronization protocols for rural regions.
-- [ ] **Ayushman Bharat ABDM Sandbox:** Live sandbox integration for patient ABHA verification.
-- [ ] **SMS Gateway Integration:** Twilio/MSG91 fallback protocols for queue status updates.
-- [ ] **Spatial Vector Predictive Engine:** Multi-variant forecasting to identify malaria outbreaks.
-
----
-
-## 👥 Meet Team Hacker Heist
-
-We are a team of software developers and health-tech enthusiasts dedicated to creating scalable engineering solutions for public health.
-
-| Name | Role | GitHub Profile |
-| :--- | :--- | :--- |
-| **Shadab Khan** | Lead Fullstack Engineer | [@shadab80k](https://github.com/shadab80k) |
-| **Collaborator One** | AI & Data Pipelines Engineer | [@hackerheist](https://github.com) |
-| **Collaborator Two** | UI/UX & Cloud Architecture | [@hackerheist](https://github.com) |
 
 ---
 
@@ -434,5 +386,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 <p align="center">
-  Made with ❤️ by <b>Team Hacker Heist</b> for a Healthier and Digitally Connected India 🇮🇳
+  Made with ❤️ for a Healthier and Digitally Connected India 🇮🇳
 </p>
